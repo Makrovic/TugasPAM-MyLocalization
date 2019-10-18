@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Register</string>
+
+    <string name="en_full_name">Full Name</string>
+    <string name="en_email">Email Address</string>
+    <string name="en_phone">Phone Number</string>
+    <string name="en_password">Password</string>
+    <string name="en_agree_term">I have read and agree the term</string>
+    <string name="en_save">SAVE</string>
+    <string name="en_language">CHANGE LANGUAGE</string>
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pendaftaran</string>
+    <string name="en_full_name">Nama Lengkap</string>
+    <string name="en_email">Alamat Email</string>
+    <string name="en_phone">Nomor Telepon</string>
+    <string name="en_password">Password</string>
+    <string name="en_agree_term">Saya telah membaca dan meyetujui ketentuan</string>
+    <string name="en_save">SIMPAN</string>
+    <string name="en_language">UBAH BAHASA</string>
+</resources>
